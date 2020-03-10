@@ -1,7 +1,6 @@
-package com.hhuda.dpj.factory;
+package com.hhuda.dpj.afactory;
 
 public enum OSTypes {
-    MAC,
     WINDOWS,
     LINUX
 }

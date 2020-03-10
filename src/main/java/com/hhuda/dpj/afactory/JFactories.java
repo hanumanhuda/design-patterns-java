@@ -1,4 +1,4 @@
-package com.hhuda.dpj.factory;
+package com.hhuda.dpj.afactory;
 
 import java.util.Calendar;
 import java.util.Locale;
